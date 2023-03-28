@@ -1,1 +1,1 @@
-# st-workflow-simulation
+# st-workflow-simulation## Installation```Metacello new	repository: 'github://nergal-perm/st-workflow-simulation:master/src';	baseline: 'EwcWorkflowSimulation';	load```
